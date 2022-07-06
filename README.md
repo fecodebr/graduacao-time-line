@@ -5,9 +5,8 @@
 
 
 O objetivo deste repositório é documentar minha trajetória durante a graduação em Sistemas para Internet na Universidade Anhembi Morumbi.
-
-<br>
 ##
+<br>
 <details>
   <summary>🔄 <b>1° Semestre</b></summary>
   <ul>
