@@ -9,6 +9,7 @@
 - **Operadores: Matemáticos, Funções Matemáticas.**
   - Tabela-verdade (Operadores 
   Lógicos)
+  - Linguagem C
   - Estrutura Sequencial.
 - **História da Linguagem de Programação**
   - Tipos de Dados, Constantes e Variáveis.
