@@ -68,7 +68,9 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
 </details>
 <br>
 
-<h3 align="center">
+
+
+<h3>
   Rede Profissional
 </h3>
 
