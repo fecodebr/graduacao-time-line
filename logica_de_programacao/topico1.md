@@ -7,6 +7,7 @@
 - **Linguagem Natural, Fluxograma e Pseudocódigo;**
 - **Variáveis; Constantes; Expressões Aritméticas e Lógicas;**
 - **Operadores: Matemáticos, Funções Matemáticas.**
+- **Linguagem C**
   - Tabela-verdade (Operadores 
   Lógicos)
   - Linguagem C
