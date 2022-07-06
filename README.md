@@ -4,7 +4,7 @@
 
 
 
-O objetivo deste repositório é documentar minha trajetória durante o curso tecnólogo de Sistemas para Internet na Universidade Anhembi Morumbi.
+O objetivo deste repositório é documentar minha trajetória durante a graduação em Sistemas para Internet na Universidade Anhembi Morumbi.
 
 <br>
 
