@@ -12,8 +12,8 @@
     - Conceitos de sistemas
     - Subsistemas
 
-- **A Origem e o conceitos da Teoria**
-  - *Geral de Sistemas:*
+- **A Origem e os conceitos da:**
+  - *Teoria Geral de Sistemas*
     - Conceitos
     - Teorias
 
