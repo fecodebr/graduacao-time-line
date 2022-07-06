@@ -10,8 +10,7 @@
 - **Linguagem C**
   - Tabela-verdade (Operadores 
   Lógicos)
-  - Linguagem C
-  - Estrutura Sequencial.
+- Estrutura Sequencial.
 - **História da Linguagem de Programação**
   - Tipos de Dados, Constantes e Variáveis.
   - Comandos de Entrada e Saída
