@@ -9,7 +9,7 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
 <br>
 
 <details>
-  <summary>✅ <b>1° Semestre</b></summary>
+  <summary>🔄 <b>1° Semestre</b></summary>
   <ul>
     <li><a href="./logica_de_programacao/README.md" style="text-decoration:none;">✅<i> Lógica de programação </i></a></li>
     <li><a href="./teoria_de_sistemas_de_informacao/README.md" style="text-decoration:none;">✅<i> Teoria de Sistemas de Informação </i></a></li>
