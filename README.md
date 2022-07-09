@@ -8,14 +8,14 @@ O objetivo deste repositório é documentar minha trajetória durante a graduaç
 ##
 <br>
 <details>
-  <summary>🔄 <b>1° Semestre</b></summary>
+  <summary>✅ <b>1° Semestre</b></summary>
   <ul>
     <li><a href="./logica_de_programacao/README.md" style="text-decoration:none;">✅<i> Lógica de programação </i></a></li>
     <li><a href="./teoria_de_sistemas_de_informacao/README.md" style="text-decoration:none;">✅<i> Teoria de Sistemas de Informação </i></a></li>
     <li><a href="./comunicacao/README.md" style="text-decoration:none;">✅<i> Comunicação </i></a></li>
-    <li><a href="./midias_sociais_e_marketing_digital/README.md" style="text-decoration:none;">🔄<i> Mídias Sociais e Marketing Digital </i></a></li>
-    <li><a href="./design_para_web/README.md" style="text-decoration:none;">🔄<i> Design para Web </i></a></li>
-    <li><a href="./interface_humano_computador/README.md" style="text-decoration:none;">🔄<i> Interface Humana computador </i></a></li>
+    <li><a href="./midias_sociais_e_marketing_digital/README.md" style="text-decoration:none;">✅<i> Mídias Sociais e Marketing Digital </i></a></li>
+    <li><a href="./design_para_web/README.md" style="text-decoration:none;">✅<i> Design para Web </i></a></li>
+    <li><a href="./interface_humano_computador/README.md" style="text-decoration:none;">✅<i> Interface Humana computador </i></a></li>
   </ul>
 </details>
 
